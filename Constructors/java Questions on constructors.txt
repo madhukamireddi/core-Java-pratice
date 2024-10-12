@@ -1,0 +1,45 @@
+java Questions on constructors
+
+1.create a java application where we have a java class it contains 
+default constructor then invoke this constructor under main
+
+2.create a java application where we have a java class it contains 
+a static variable and a non-static variable and a static m1 having
+parameter and return type and a non-static m2 have parameter and 
+no return type and a default Constructor then print those global 
+variable under Constructor and invoke those under main by providing
+dynamic inputs.
+
+3.create a java application where we have a java class it contains 
+a static variable and a non-static variable and a parameterized
+constructor then invoke all of these under main methods by 
+providing dynamic inputs.
+
+4.create a java application where we have a java class it contains 
+2 non-static variables without initialization and then initialize
+those variables while creating object and then print those variables
+under a non-static method like display
+
+5.create a java application where we have a java class it contains 
+a default constructor and a single parameterized constructor and
+a double parameterized constructor and a triple parameterized
+constructor and a non-static variable then invoke default under
+single, single under double , double under triple and triple under
+main method
+
+6.create a java application where we have a java class it contains 
+a static variable and a non-static variable and an object parameterized
+constructor then print those variable under this constructor and invoke
+this constructor under main method by providing dynamic inputs.
+
+7.create a java application where we have a java class it contains 
+2 instance variables without initialization then initialize these
+variables while creating object and then print these variables under
+a object parameterized constructor both the default values and user 
+given values
+
+8.create a java application where we have a java class it contains 
+one non-static variable and a default constructor and a single 
+parameterized constructor and a double parameterized constructor
+and an object parameterized constructor then invoke all of these 
+by providing dynamic inputs.

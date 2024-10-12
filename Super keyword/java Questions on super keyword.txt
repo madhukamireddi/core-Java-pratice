@@ -1,0 +1,5 @@
+java Question on super keyword
+
+1.create a java application where we need to satisfy super at variable level
+
+2.create a java application where we need to satisfy super at method level

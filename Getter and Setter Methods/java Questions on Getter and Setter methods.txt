@@ -1,0 +1,24 @@
+java Questions on Getter and Setter methods
+
+1.create a java application where we have class Facebook it contains
+a private field like password then provide setter and getter methods
+for this variable, we have a separate class Ramesh from here reset
+Ramesh password and display the new password to Ramesh by providing
+dynamic inputs.
+
+2.create a java application where we have class Instagram it contains
+two private field like username and password take another class user
+and then reset both username and password then display the credentials
+to user
+
+3.create a java application which contains class Insta it contains 
+three private fields like username, password and phoneNumber then
+provide setter and getter methods for this variables take a separate
+class user which contains a non-static method login.Here ask the user
+to enter his credentials then both username and password matches with 
+the data then print "login successful" or else if both password and
+userName are incorrect then ask user if he want to reset then provide
+mobile number . if the mobile number is valid then display the userName
+and then redirect him to login page or else print Invalid mobile number
+and ask user to enter valid mobile number similarly if userName is only
+incorrect then ask him to reset and then redirect to login Same as password.

@@ -1,0 +1,27 @@
+java Questions on abstract classes
+
+1.create a java application where we have one abstract class it contains
+two abstract methods having parameters and return type then provide 
+functionality for this methods in a concrete class and invoke them by
+providing dynamic inputs.
+
+2.create a java application where we have one abstract class it contains
+a non-static variable, two undefined methods and two defined methods 
+having parameters and return type and a parameterized constructor provide
+functionality for the abstract class in separate concrete class and invoke
+all the properties by providing dynamic inputs.
+
+3.create a java application where we have one abstract class it contains
+one abstract method and a parameterized constructor then  inherit these
+class into another abstract class which contains once abstract and one
+defined method then invoke this abstract class into a concrete class and
+providing functionality for all of these methods and invoke them by 
+providing dynamic inputs.
+
+4.create a java application where we have one abstract class it contains
+one abstract method then inherit this class into another abstract class
+which contains one abstract and one defined method and an parameterized
+constructor and we have a separate class which contains one non-static
+method and a parameterized constructor then provide functionality for
+the abstract class in a separate concrete class and then invoke all of 
+these properties under main method of separate class Test.

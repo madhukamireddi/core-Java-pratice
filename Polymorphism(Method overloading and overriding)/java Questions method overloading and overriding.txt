@@ -1,0 +1,9 @@
+java Questions method overloading and overriding
+
+1.create a java application where we have one class it contains
+one static and two non-static methods having same name and different
+parameters then invoke them by providing dynamic inputs.
+
+2.create a java application where we need to satisfy overloading.
+
+3.create a java application where we need to satisfy overriding 

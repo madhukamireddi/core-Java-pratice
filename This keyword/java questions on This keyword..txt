@@ -1,0 +1,35 @@
+java questions on This keyword
+
+1.create a java application where we have a java class it contains 
+a non-static variable and a non-static method m1 having parameter 
+and return type the parameter name must be same as global variable
+name then invoke this method 2 times by using different objects by 
+providing dynamic inputs and print that global variable under non-
+static method.
+
+2.create a java application where we have a java class JavaDevolpers
+it contains a global variable attendance and a non-static method 
+programming having attendance as parameters and another non-static
+method core java having attendance as parameter then if core java
+attendance is greater than programming and total attendance return
+"Good job, keep it up" or else if core java attendance is less than
+programming attendance return "change the batch".
+
+3.create a java application where we have a java class we need
+to satisfy this at method level.
+
+4.create a java application where we have a java class it contains
+a non-static variable and a single parameterized constructor and 
+a double parameterized constructor then invoke single parameterized
+constructor under double parameterized constructor and double
+parameterized constructor under main by creating only one memory
+space
+
+5.create a java application where we have a java class we need
+to satisfy this at all levels
+
+6.*
+create a java application where we have a java class it contains
+a static variable and a non-static variable , a static method
+and a non-static method and call them without writing anything 
+in the main method except sop(System.out.println()).

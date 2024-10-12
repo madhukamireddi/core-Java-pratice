@@ -1,0 +1,28 @@
+java Questions on Exception Handling
+
+1.create a java application where we have one class it contains 
+a non-static method m1 having two integer parameters and returns
+nothing perform division operations  to the parameter  in this
+method and if any Exception occurs in the process handle it and 
+invoke this method under main method using dynamic inputs.
+
+2.create a java application where we need to handle IndexOutOfBoundsException
+
+3.Find length of array without using length variable 
+
+4.write where we need to handle NullPointerException.
+
+5.where we take command line arguments from the user
+and then add all values and display total sum if 
+any Exception occurs handle it.
+
+6.create a java application we need to handle 3 different type of
+Exceptions in three different ways.
+
+7.we have to take input from the user and print it if any
+exception occurs then handle it and again ask another input
+from the user until user gives correct input.
+
+8.create a java application where we might get 3 different types of
+Exceptions then handle any one of them.
+

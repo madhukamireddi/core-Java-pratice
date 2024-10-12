@@ -1,0 +1,34 @@
+java Questions on interfaces
+
+1.create a java application where we have one interface
+which contains two abstract methods then provide functionality
+in a separate concrete class and invoke them by providing dynamic
+inputs.
+
+2.create a java application where we have one interface it contains
+one variable, two abstract methods and two defined methods then 
+provide functionality in concrete class and invoke them by providing
+dynamic inputs.
+
+3.create a java application where we have one interface it contains
+one abstract method and one defined method then inherit this interface
+into another interface which contains one abstract and one defined 
+method inherit this interface into an abstract class which contains one 
+defined and one undefined method and a parameterized constructor then  
+provide functionality in concrete class and invoke them by providing
+dynamic inputs.
+
+4.create a java application where we have two interface containing one
+abstract method and one defined method each and an abstract class 
+which contains one abstract method and a class which contains a
+parameterized constructor and one static and one non-static method
+then provide functionality for the both interfaces and abstract class
+in a separate concrete class by inheriting them all at once and invoke
+them by providing dynamic inputs.
+
+5.create a java application where we have two interface having one abstract
+method each then inherit these two interfaces into an abstract class which
+contains one abstract and one defined and a parameterized constructor then
+we have another separate class which provides functionality for them and a 
+separate class which contains a parameterized constructor and a non-static
+method then inherit all these properties under main of separate class Test.

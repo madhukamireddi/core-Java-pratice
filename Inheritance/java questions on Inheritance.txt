@@ -1,0 +1,33 @@
+java questions on Inheritance
+
+1.create a java application where we have a java class it contains
+a non-static variable and a static method and non-static method
+having parameter and return type then inherit this class into
+another class which contains one static variable and non-static
+variable and a non-static method then invoke all of these under
+main method by providing dynamic inputs.
+
+2.create a java application where we have a java class bank it contains
+a global variable balance and 2 non-static methods like withdraw and 
+deposit having amount as parameter and performs the respective operation 
+and return the available balance and another non-static method balance
+enquiry which displays current balance then inherit bank to user class
+which contains a non-static method like transaction then invoke transaction
+under main method and here perform respective operation based on user 
+requirements until he went to exit.
+
+3.create a java application where we have a java class bank it contains
+a non-static method having parameter and return type then inherit this
+class into another class which contains one static and one non-static
+method then inherit this class into another class which contains one 
+non-static method invoke all of these methods by providing dynamic inputs.
+
+4.create a java application where we have a java class Airtel which
+consists of a non-static method recharge and inherit this class to 
+cellshop class where it has a non-static method like selection and 
+billing inherit this class to another derived class as user and 
+invoke selection method here and perform all the operations.
+
+5.create a java application where we have a java class A, class B
+and class c with one non-static method in each and call those
+methods in another class Test.

@@ -1,0 +1,52 @@
+java Questions on inner classes
+
+1.create a java application where we have one class it contains
+a private variable and a non-static method and member inner
+class which contains one non-static method then invoke all of  
+these under main of outer class by providing dynamic inputs.
+
+2.create a java application where we have one class it contains
+one private variable and a static and non-static methods inside
+there is member inner class which contains one non-static method 
+and a member inner class which  a non-static method then invoke
+all of these by providing dynamic inputs in a separate class.
+
+3.create a java application where we have one class it contains
+a static and a non-static variable and a static block which
+displays a user friendly message and it contains a variable
+and a an instance block which prints user friendly message
+and it contains a variable, and we have another static and 
+non-static variable and a parametrized constructor then invoke
+all of these by providing dynamic inputs.
+
+4.create a java application where we have one class it contains
+a private variable and a non static method and a static inner 
+class contains one static and non-static methods then invoke 
+all of these under main of outer class.
+
+5.create a java application where we have one class it contains
+a non static method and a member inner class which contains two
+non-static methods and a static inner class contains which contains
+one static and non-static methods then invoke all of these under main 
+of separate class Test.
+
+6.create a java application where we have one class it contains
+a non-static method inside this method we have a local inner
+class which contains one non-static method then invoke these
+by providing dynamic inputs.
+
+7.create a java application where we have one class it contains
+a static method and a member inner class which contains two
+non-static methods and a static inner class which contains
+a non-static method and a static method inside this static
+method we have a local inner class which contains one non-static
+method then invoke all the possible  properties under main 
+of separate class Test.
+
+8.create anonymous inner class Example
+
+9.create a java application where we have one java class it contains
+a abstract class which contains two abstract methods and a defined 
+method and a parameterized constructor and a interface which contains
+one abstract method then provide functionality for these by using 
+anonymous inner.

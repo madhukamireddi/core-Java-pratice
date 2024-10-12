@@ -1,0 +1,42 @@
+java questions on multithreading
+
+1.create a java application where we need to create an user defined thread and print 1 to 10.
+
+2. create a java application where we need to create 
+3 custom defined threads and then print the name of 
+those threads along with their priority values and 
+check they are in live state or not and that set user
+defined name and priorities for those threads then start
+them and check whether they are live state or not and
+then print the priority values.
+
+3.create a java application where we need to create 
+one java custom defined thread and print 1 to 10 by 
+using it with a time interval of 1 sec.
+
+4.create a java application where we need to create 
+two custom defined threads and then print 1 to 10by 
+using first thread , 30 to 40 by using second thread.
+
+5.create a java application where we need to create 
+two custom defined threads, this two threads will access 
+a non static method m1 which iterates the values from
+1 to 20 then print all the three multiples by using first 
+and thread and all 4 multiples using second thread.
+
+6.create a java application where we need to create 
+three custom defined threads, then print 1 to 20 by 
+using 1st Thread, 30 to 20 by using 2nd Thread and 
+50 to 60 by using 3rd Thread. Here allow one by one
+flow without any interruption.
+
+7.create a java application where we need to create 
+2 custom defined Threads, 1 prints the numbers from 
+1 to 15 and another Thread prints the numbers from 40
+to 50 then keep 2nd Thread in waiting state until 1st
+thread print number up to 5 and then resume that Thread
+from waiting state to running state.
+
+8.t1 -> A-Z
+t2 -> a-z
+o/p:- A_G,a-g,H-Z,h-z.

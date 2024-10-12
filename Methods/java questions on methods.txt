@@ -1,0 +1,153 @@
+java questions on methods
+
+1.create a java application where we have a java class it contains 
+two static variables and two non static variables then print those
+variables under main method by providing dynamic inputs 
+
+2.create a java application where we have a java class it contains 
+one static variable, one non-static variable and another static variable
+and a non-static method m1 having no parameters and return nothing, it 
+contains two local variables then print all of the variables under this
+method by providing dynamic inputs.
+
+3.create a java application where we have a java class it contains 
+a non-static variable and a non-static method m1 having string 
+as parameter and returns int type of value and a static method m2 
+having float as parameter and returns short then invoke all of the 
+properties under main method by providing dynamic inputs
+
+4.create a java application where we have a java class it contains 
+a non-static method having float as parameter and returns String
+type of value and another non-static method m2 having int,boolean
+as parameter and return nothing then invoke these methods under main
+method by providing dynamic inputs
+
+5.create a java application where we have a java class it contains 
+a non-static method m1 having long as parameter and returns nothing
+and another non-static method m2 having string,float,boolean 
+as parameters and returns integer value and a static method m3 having
+short as parameter and returns character then invoke these methods
+in the main method by providing dynamic inputs 
+
+6.create a java application where we have a java class it contains 
+a non-static variable and a static method m1 having parameter and
+return type and a  non-static method m2 having parameters and return 
+type and a static method m3 having parameter and returns nothing then
+invoke all of these methods under main method by providing dynamic inputs
+
+7.create a java application where we have a java class it contains 
+a non-static variable and two static variables and a non-static 
+method m1 having parameter and return type and a static method m2 
+having parameters and return type and another static method m3 having 
+parameter and return type then invoke all of these methods under 
+main method by providing dynamic inputs
+
+8.create a java application where we have a java class it contains 
+two static variables and two non-static variables and two non-static
+methods having no parameter and returns nothing then print all of
+the global variables in both the methods and invoke these methods under
+main method by using two different objects
+
+9.create a java application where we have a java class it contains 
+a non-static method m1 having float,int as parameters and returns
+nothing and a static method m2 having char,String as parameters
+and returns String then invoke m1 under m2 and m2 under main methods
+
+10.create a java application where we have a java class it contains 
+three non-static methods have m1,m2,m3 having parameter and return 
+type then invoke m1 under m2, m2 under m3 and m3 under main methods
+
+11.create a java application where we have a java class it contains 
+a non-static method m1 having parameter & return type and a static
+method m2 having parameter & return type and another non-static 
+method m3 having parameter and return type then invoke m1 under m2, 
+m2 under m3 and m3 under main method
+
+12.create a java application where we have a java class it contains 
+a static variable and a non-static variable and two non-static
+methods having parameters and returns nothing then invoke non-static
+methods under static method one each & both the static methods under
+main method by providing dynamic inputs
+
+13.create a java application where we have a java class it contains 
+a non-static method m1 having no parameter & returns Boolean and 
+a static method m2 having string as parameter and returns nothing 
+then invoke m1 method under main method and m1 returns true then 
+invoke m2 method or else print a user friendly message by providing
+dynamic inputs
+
+14.create a java application where we have a java class it contains 
+a non-static method m1 having integer as parameter and returns 
+String and another non-static method m2 having String as parameter
+and returns Boolean then invoke both the methods under main method
+invoke m2 method by passing m1 method return value as parameter by
+providing dynamic inputs.
+
+15.create a java application where we have a java class it contains 
+a static method m1 having Boolean, long as parameters and returns
+short and a non-static method m2 having double as parameter and
+returns m1 method return value then invoke these methods under 
+main method.
+
+16.create a java application where we have a java class as batch
+JavaLearners here user need to enter the details of 5 boys and
+5 girls then we have method like display which is of non-static
+and it displays the details of students,then if user wants to see
+boys data then display boys data or else if user wants to see
+girls data then display girls data or else if user want to see both
+the data then display both.
+
+17.create a java application where we have one class it contains
+2 static and 2 non-static methods having parameters and return
+type then invoke these methods under main method and here we don't
+store the Object
+
+18.create a java application where we have one class name Maths it 
+contains a non-static method add, having 2 integer parameters and
+returns the summation of parameters and another non-static method
+sub having 2 integer parameters and returns the subtraction of 
+the parameters and a static method mul having no parameters and 
+returns the multiplication of add and, sub methods return values
+
+19.create a java application where we have one class it contains
+a non-static variable and two non-static methods and 2 static
+methods having parameters and return type then invoke non-static
+methods under static methods one each and invoke static  methods
+under main method only by using object reference(new <className>()) 
+by providing dynamic inputs.
+
+20.create a java application where we have one class it contains
+2 static variables and 2 non-static variables , 2 non-static 
+methods and 2 static methods having parameters and return type
+then invoke non static methods under static methods one each 
+then and print all of the global variables under static methods,
+then invoke static methods under main method by providing dynamic
+inputs 
+Note: only by using object reference(new <className>())
+
+21.create a java application where we have one class it contains
+a non-static method having parameter and return type and a
+static method m2 having object as parameter and returns nothing
+then invoke these methods under main method by providing dynamic
+inputs.
+
+22.create a java application where we have one class it contains
+a non-static variable and 2 non-static methods having parameters
+and return type and a static method having object as parameter and
+returns Boolean then invoke those non-static methods & global 
+variables under static method & invoke static method under main
+by providing dynamic inputs.
+
+23.create a java application where we have one class it contains
+static method and call/invoke it and don't write a single line
+in the main method 
+
+24.create a java application where we have one class it contains
+a non-static method m1 having int as parameter and returns String
+and a static method m2 having no parameter and having return
+type then invoke these methods under main method without creating or
+storing the object directly
+
+25.create a java application where we have one class it contains
+all 8 methods then invoke any one of the method under main method
+and rest under one another methods by providing dynamic inputs.
